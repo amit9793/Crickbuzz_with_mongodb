@@ -1,0 +1,28 @@
+#middle{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 20% 55% 20%;
+    background-color: white;
+    height: 600px;
+    width: 100%;
+}
+#left{
+    height: 2000px;
+    margin-left: 30px;
+    background-color: white;
+}
+#right{
+   height: 2000px;
+   margin-left: 30px;
+   background-color: white;
+}
+#newspage{
+   margin-left: 30px;
+   background-color: white;
+}
+img{
+   height: 100%;
+   width: 100%;
+   
+   
+}
